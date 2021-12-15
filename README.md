@@ -1,6 +1,6 @@
 ### Olá, pessoal👋
 
-- 🌱 Atualmente estudando Python e Inglês.
+- 🌱 Atualmente estudando Python, Html, Css, Js e Inglês.
 - 📫 Contate-me no email: leonardoguerrini.contato@gmail.com
 
 <div align="center">
