@@ -1,7 +1,5 @@
-### Olá, pessoal👋
-
-- 🌱 Atualmente estudando Python, Html, Css, Js e Inglês.
-- 📫 Contate-me no email: leonardoguerrini.contato@gmail.com
+- 🌱 I’m currently learning Html, Css, Js and English.
+- 📫 Contact me by email: leonardoguerrini.contato@gmail.com
 
 <div align="center">
   <a href="https://github.com/leonardoguerrini">
