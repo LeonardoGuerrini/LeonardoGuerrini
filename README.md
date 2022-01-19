@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Python, JavaScript and English.
+- 🌱 I’m currently learning JavaScript and English.
 - 📫 Contact me by email: leonardoguerrini.contato@gmail.com
 
 <div align="center">
