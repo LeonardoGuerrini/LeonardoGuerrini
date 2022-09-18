@@ -1,5 +1,5 @@
 - 🌱 I’m currently learning JavaScript and English.
-- 📫 Contact me by email: leonardoguerrini.contato@gmail.com
+- 📫 Contact me by email: leonardogguerrini@gmail.com
 
 <div align="center">
   <a href="https://github.com/leonardoguerrini">
