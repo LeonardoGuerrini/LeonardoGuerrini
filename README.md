@@ -14,6 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   </p>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoguerrini&show_icons=true&theme=dark&locale=en&layout=compact" alt="leonardoguerrini" /></p>
