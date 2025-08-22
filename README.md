@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Guerrini</h1>
 <h3 align="center">I'm a full-stack developer student.</h3>
 
-- 🌱 I’m currently learning **JS and PHP.**
+- 🌱 I’m currently learning **Java.**
 
 - 👨‍💻 All of my projects are available at [https://leoguerrini.vercel.app/](https://leoguerrini.vercel.app/)
 
