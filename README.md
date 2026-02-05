@@ -1,6 +1,6 @@
 # Hi 👋, I'm Leonardo Guerini
-🔭 I’m currently working on [Currency Converter](https://github.com/LeonardoGuerrini/ProjectCurrencyConverterAPI-app/)
-<br><br>🌱 I’m currently learning **Java**<br><br>👨‍💻 All of my projects are available at https://leoguerrini.vercel.app/<br><br>
+🔭 I’m currently working on [Fullstack challenge](https://github.com/LeonardoGuerrini/desafio-fullstack)
+<br><br>🌱 I’m currently learning **Javascript**<br><br>👨‍💻 All of my projects are available at https://leoguerrini.vercel.app/<br><br>
 
 
 ## 🌐 Socials:
