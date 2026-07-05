@@ -1,5 +1,5 @@
 # Hi 👋, I'm Leonardo Guerini
-🔭 I’m currently working on [Insert Project](https://github.com/LeonardoGuerrini/projeto-insert)
+🔭 I’m currently working on [Study Better](https://github.com/LeonardoGuerrini/studybetter)
 <br><br>🌱 I’m currently learning **Javascript**<br><br>👨‍💻 All of my projects are available at https://leoguerrini.vercel.app/<br><br>
 
 
